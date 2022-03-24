@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Language_Cards_react/static/css/main.ffe34ec7.css",
+    "main.js": "/Language_Cards_react/static/js/main.c11b15c1.js",
+    "static/js/787.32b8e19c.chunk.js": "/Language_Cards_react/static/js/787.32b8e19c.chunk.js",
+    "index.html": "/Language_Cards_react/index.html",
+    "main.ffe34ec7.css.map": "/Language_Cards_react/static/css/main.ffe34ec7.css.map",
+    "main.c11b15c1.js.map": "/Language_Cards_react/static/js/main.c11b15c1.js.map",
+    "787.32b8e19c.chunk.js.map": "/Language_Cards_react/static/js/787.32b8e19c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.c11b15c1.js"
+  ]
+}
