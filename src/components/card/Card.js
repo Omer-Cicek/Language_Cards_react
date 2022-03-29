@@ -45,7 +45,7 @@ const Card = () => {
             name={item.name}
             image={item.img}
             options={item.options}
-            // key={index}
+            key={index}
           />
         );
       })}
