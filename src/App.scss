@@ -37,6 +37,7 @@ body {
     background-color: $orange;
   }
   .blue-div {
+    z-index: -1;
     width: 350px;
     height: 100px;
     background-color: $blueLine;

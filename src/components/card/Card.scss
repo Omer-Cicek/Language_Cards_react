@@ -6,6 +6,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  z-index: -1;
 
   &-img {
     width: 40%;
@@ -20,10 +21,8 @@
     text-align: center;
     padding-top: 0.4rem;
   }
-  &-ul {
+  &-div {
     list-style-type: none;
-    position: relative;
-    z-index: 1;
     margin: 0.4rem;
     background-color: $cardsBgColor;
     border-radius: 0.7rem;
